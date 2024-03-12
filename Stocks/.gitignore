@@ -3,4 +3,4 @@
 __pycache__
 .vscode
 data.txt
-previous_dat_close.txt
+previous_day_close.txt
