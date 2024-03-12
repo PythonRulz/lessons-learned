@@ -1,6 +1,6 @@
 # My Own Path To Python
 
- I am self taught for the most part, utilizing some youtube tutorials, free classes in UDEMY and Stack Skills and as many free Python books as I can get my hands on.  Most of my code will make zero sense to those who use it professionaly, and probably those who use it as a hobby.
+ I am self taught for the most part, utilizing some youtube tutorials, free classes in UDEMY and Stack Skills and as many free Python books as I can get my hands on.  Most of my code will make zero sense to those who use it professionaly, and probably those who use it as a hobby.  I also have no idea how to use GIT/GITHUB so this is all a new experience for me
 
  # Stocks Code
  This code came about as I wanted to find a way to have a file emailed to me Monday through Friday to show how my stocks did for the day and the +/- from the previous day total.  It started off simple enough and got out of hand really quick.  
